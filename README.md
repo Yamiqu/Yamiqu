@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Yamiqu
+I'm a Web developer in Wuhan, China 🇨🇳
+
 
 ![Counter](https://count.getloli.com/get/@Yamiqu.github.readme)
 
@@ -14,7 +17,7 @@
 ![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
+![](https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
 
 
 <!--
