@@ -9,7 +9,7 @@ Currently attracted by React 🌐
 
 ![Counter](https://count.getloli.com/get/@Yamiqu.github.readme)
 
-![](https://img.shields.io/badge/MacOS-Monterey-2376bc?style=flat-square&logo=apple&logoColor=ffffff)
+![](https://img.shields.io/badge/MacOS-Monterey-cb30b2?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
