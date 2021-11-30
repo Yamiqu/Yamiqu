@@ -14,7 +14,7 @@ Currently attracted by React 🌐
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff)
