@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Yamiqu, graduated math student at Tokyo Tech.
+I'm Yamiqu
 
-Now I'm a Web developer in Wuhan, China 🇨🇳 
+💼 A Web developer based in Wuhan, China 🇨🇳 
 
-Currently attracted by React 🌐
+🔭 Currently working on some Open Source Project w/ Vue&React
+
+📫 Feel free to [throw me an email](mailto:klingonslaw@hotmail.com)
 
 
 ![Counter](https://count.getloli.com/get/@Yamiqu.github.readme)
