@@ -9,17 +9,23 @@ I'm Yamiqu
 📫 Feel free to [throw me an email](mailto:klingonslaw@hotmail.com)
 
 
-![Counter](https://count.getloli.com/get/@Yamiqu.github.readme)
+<!-- ![Counter](https://count.getloli.com/get/@Yamiqu.github.readme) -->
 
+<a width="100%" href="https://github.com/Yamiqu">
+ <img src="https://count.getloli.com/get/@Yamiqu.github.readme" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
+</a>
+ 
+ 
+ 
 ![](https://img.shields.io/badge/MacOS-Monterey-cb30b2?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/-Mathematica-222222?style=flat-square&logo=wolframmathematica&logoColor=bf2f1e)
 
 
@@ -33,7 +39,11 @@ I'm Yamiqu
 ![](https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff)
 
-![https://github.com/Yamiqu](https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars)
+<!-- <a href="https://github.com/Yamiqu" width="100%">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
+</a> -->
+
+<!-- ![https://github.com/Yamiqu](https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars) -->
 
 <!-- ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) 
 ![](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react&logoColor=61DBFB)
