@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
+
 I'm Yamiqu
 
 💼 A Web developer based in Wuhan, China 🇨🇳 
@@ -13,7 +15,6 @@ I'm Yamiqu
 
 <a width="100%" href="https://github.com/Yamiqu">
  <img src="https://count.getloli.com/get/@Yamiqu.github.readme" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
 </a>
  
  
@@ -41,6 +42,8 @@ I'm Yamiqu
 
 <!-- <a href="https://github.com/Yamiqu" width="100%">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
+  
+
 </a> -->
 
 <!-- ![https://github.com/Yamiqu](https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars) -->
