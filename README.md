@@ -33,7 +33,7 @@ I'm Yamiqu
 ![](https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff)
 
-
+![https://github.com/Yamiqu](https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars)
 
 <!-- ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) 
 ![](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react&logoColor=61DBFB)
