@@ -4,7 +4,7 @@
 
 I'm Yamiqu
 
-💼 A Web developer based in Wuhan, China 🇨🇳 
+💼 A Frontend developer based in Wuhan, China 🇨🇳 
 
 🔭 Currently working on some Open Source Project w/ Vue&React
 
