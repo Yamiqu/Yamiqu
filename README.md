@@ -21,7 +21,7 @@ I'm Yamiqu
  
 ![](https://raw.githubusercontent.com/Yamiqu/Yamiqu/output/github-contribution-grid-snake.svg)
  
-![](https://img.shields.io/badge/MacOS-Monterey-cb30b2?style=flat-square&logo=apple&logoColor=ffffff)
+![](https://img.shields.io/badge/MacOS-Ventura-cb5331?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
@@ -33,15 +33,24 @@ I'm Yamiqu
 
 
 ![](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Vue-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![](https://img.shields.io/badge/-Webpack-02A8EF?style=flat-square&logo=webpack&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=ffffff)
 ![](https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=antdesign&logoColor=ffffff)
-![](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+![](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff)
+![](https://img.shields.io/badge/-Tauri-FF9E0F?style=flat-square&logo=tauri&logoColor=ffffff)
 
+![](https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
+![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
+![](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=ffffff)
 <!-- <a href="https://github.com/Yamiqu" width="100%">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
   
