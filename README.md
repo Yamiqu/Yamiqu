@@ -28,6 +28,7 @@ I'm Yamiqu
 ![](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
 ![](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/-Mathematica-222222?style=flat-square&logo=wolframmathematica&logoColor=bf2f1e)
 
@@ -50,10 +51,14 @@ I'm Yamiqu
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
-![](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=ffffff)
-![](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)
+![](https://img.shields.io/badge/-OpenSea-2081E2?style=flat-square&logo=OpenSea&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=Strapi&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Firebase-EB844E?style=flat-square&logo=Firebase&logoColor=ffffff)
+![](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=Sentry&logoColor=ffffff)
+![](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=ffffff)
+
+![](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=ffffff)
+![](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)
 <!-- <a href="https://github.com/Yamiqu" width="100%">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
   
