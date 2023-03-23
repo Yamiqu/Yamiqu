@@ -6,7 +6,7 @@ I'm Yamiqu
 
 💼 A Frontend developer based in Wuhan, China🇨🇳 
 
-🔭 Currently working on some Open Source Project w/ Vue&React
+🔭 Currently working on some Open Source Project w/ Vue&React.
 
 📫 Feel free to [throw me an email](mailto:klingonslaw@hotmail.com)
 
@@ -34,12 +34,12 @@ I'm Yamiqu
 ![](https://img.shields.io/badge/-Mathematica-222222?style=flat-square&logo=wolframmathematica&logoColor=bf2f1e)
 
 ![](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Vue-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Webpack-02A8EF?style=flat-square&logo=webpack&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=ffffff)
-![](https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=antdesign&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
