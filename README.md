@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
+<img align="right" src="https://github-status-9aw0has38-klingonslaw-gmailcom.vercel.app//api?username=Yamiqu&count_private=true&show_icons=true&theme=radical&hide=stars" />
 
 I'm Yamiqu
 
