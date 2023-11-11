@@ -27,6 +27,7 @@ I'm Yamiqu
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![](https://img.shields.io/badge/-Scheme-bf281b?style=flat-square&logo=racket&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
