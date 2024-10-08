@@ -22,7 +22,7 @@ I'm Yamiqu
  
  
  
-![](https://raw.githubusercontent.com/Yamiqu/Yamiqu/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Yamiqu/Yamiqu/output/github-contribution-grid-snake-dark.svg)
  
 ![](https://img.shields.io/badge/MacOS-Sonoma-8cb031?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
