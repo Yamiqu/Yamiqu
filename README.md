@@ -4,7 +4,7 @@
 
 I'm Yamiqu
 
-💼 A Frontend developer based in Wuhan, China🇨🇳 
+💼 A Frontend developer based in Earth🌏 
 
 - 👨‍💻 Exploring the beauty of Scheme&Lisp-like language.
 - 🌱 Embracing the principles of Functional Programming.
