@@ -4,12 +4,11 @@
 
 I'm Yamiqu
 
-💼 A Frontend developer based in Earth🌏 
+💼 A developer based in Earth🌏 
 
 - 👨‍💻 Exploring the beauty of Scheme&Lisp-like language.
 - 🌱 Embracing the principles of Functional Programming.
 - ✨ Always eager to learn and share knowledge.
-- 🔭 Currently working on some Open Source Project w/ Vue&React.
 
 📫 Feel free to [throw me an email](mailto:klingonslaw@hotmail.com)
 
